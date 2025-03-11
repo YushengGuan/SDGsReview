@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40261868-3e7f-42b4-aebf-ede714843047" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Code.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace (SFConflict 2023310197@tsinghua.edu.cn 2025-03-02-00-20-58).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace (SFConflict 2023310197@tsinghua.edu.cn 2025-03-02-20-32-52).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace (SFConflict 2023310197@tsinghua.edu.cn 2025-03-03-17-12-15).xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Chat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eligibility.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eligibility/ALL_clean.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eligibility/Sampling.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eligibility/test.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eligibility/影响评估_clean.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eligibility/影响评估_eligible.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eligibility/影响评估_test.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eligibility/控制优化_clean.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eligibility/规划设计_clean.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Find_repeat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ReadPDF.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Repeat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/full_text_generated_process1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/full_text_generated_process2.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Results/full_text_generated_process3.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Scopus/SDGs impact.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screen.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/影响评估_all.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/影响评估_screened.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/影响评估_screened_ROG.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/影响评估_screened_ROG_10470.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/影响评估_screened_ROG_10850.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/影响评估_screened_ROG_complementary.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/控制优化_all.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/控制优化_screened.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/控制优化_screened_ROG_complementary.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/规划设计_all.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/规划设计_screened.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/规划设计_screened_1730.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/规划设计_screened_2600.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/规划设计_screened_3150.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screened/规划设计_screened_ROG_complementary.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screening.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Screening_complementary.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siliconflow_138.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siliconflow_139.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siliconflow_152.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siliconflow_177.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siliconflow_178.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Siliconflow_188.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/scopus_影响评估.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/scopus_影响评估.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/scopus_控制优化.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/scopus_控制优化.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/scopus_规划设计.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/scopus_规划设计.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/wos_优化.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/wos_影响.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/wos_影响评估.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/wos_影响评估.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/wos_控制.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/wos_控制.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/wos_控制优化.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/wos_控制优化.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/wos_规划设计.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/wos_评估.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/影响评估.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/影响评估.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/控制优化.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/控制优化.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/规划设计.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Zotero/规划设计.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/article_for_test.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/find_exist.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_text_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_text_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_text_3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_text_4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_text_5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/full_text_6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sampling.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/simple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/single_article.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test_set.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2uB5NdZsgKDX7BvkGLaUr3yMbJj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-PY-241.14494.241" />
+        <option value="bundled-python-sdk-0509580d9d50-28c9f5db9ffe-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="40261868-3e7f-42b4-aebf-ede714843047" name="更改" comment="" />
+      <created>1741709088145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741709088145</updated>
+      <workItem from="1741709089893" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
