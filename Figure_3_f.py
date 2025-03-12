@@ -9,13 +9,13 @@ df = pd.read_excel(r'Included/影响评估_included_zh.xlsx')
 
 air = ['PM2.5', 'PM10', 'PM', 'SO2', 'NOx', 'VOC']
 climate = ['CO2', 'CH4', 'N2O', '氟', 'GHG']
-water = ['TN', 'TP', 'COD', 'BOD', '硝酸盐', '硫酸盐', '磷酸盐', 'NH4', '氰', '农', '肥', '粪', '菌']
-metal = ['Fe', 'Cu', 'Cr', 'Cd', 'Mn', 'Ni', 'Co', 'As']
+water = ['TN', 'TP', 'COD', 'BOD', '硝酸盐', '硫酸盐', '磷酸盐', 'NH4', 'As', '氰', '农', '肥', '粪', '菌']
+metal = ['Fe', 'Cu', 'Cr', 'Cd', 'Mn', 'Ni', 'Co']
 waste = ['塑料', '固体', '医疗', '有害']
 
-air_names = air
-climate_names = ['CO2', 'CH4', 'N2O', 'F-related', 'GHG']
-water_names = ['TN', 'TP', 'COD', 'BOD', 'NO3', 'SO4', 'PO4', 'NH4', '-CN', 'Pesticide', 'Fertilizer', 'Faeces', 'Infectives']
+air_names = ['PM$_{2.5}$', 'PM$_{10}$', 'PM', 'SO$_2$', 'NO$_x$', 'VOC']
+climate_names = ['CO$_2$', 'CH$_4$', 'N$_2$O', 'F-related', 'GHG']
+water_names = ['TN', 'TP', 'COD', 'BOD', 'NO$_3^-$', 'SO$_4^{2-}$', 'PO$_4^{3-}$', 'NH$_4^+$', 'As', '-CN', 'Pesticide', 'Fertilizer', 'Faeces', 'Infectives']
 metal_names = metal
 waste_names = ['Plastics', 'Solid', 'Medical', 'Hazardous']
 
